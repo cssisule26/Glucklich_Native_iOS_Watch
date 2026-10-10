@@ -1,9 +1,0 @@
-{
-  "trainingMeals": 25,
-  "validationMeals": 4,
-  "testMeals": 4,
-  "skippedMeals": 8,
-  "day7MAE": 10.403904218622754,
-  "day7PersistenceMAE": 13.691666666666666,
-  "day8MAE": 20.462294822395087
-}
