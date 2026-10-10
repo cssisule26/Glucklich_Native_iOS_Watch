@@ -2,7 +2,7 @@
 
 Glucklich is a native SwiftUI research prototype for Rutgers Health Hack Challenge 3. It predicts a participant's post-meal glucose trajectory using a model fit to their preceding seven days. This package contains the iOS app, a watchOS companion, an offline Python training pipeline, and deterministic demo data.
 
-## Run on your teammate's Mac
+## Run on Mac
 
 1. Unzip the entire folder. Open **Glucklich.xcodeproj** in **Xcode 16 or later**. No CocoaPods, Expo, API keys or XcodeGen are needed.
 2. Select the **Glucklich** scheme and an iPhone Simulator with iOS 17 or later. Press **Run**. The bundled demo works without Health permissions or external data.
