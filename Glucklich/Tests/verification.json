@@ -1,0 +1,11 @@
+{
+  "pythonTests": 10,
+  "pythonTestsPassed": true,
+  "swiftSyntaxParsed": true,
+  "xcodeProjectParsed": true,
+  "schemesAndPropertyListsParsed": true,
+  "appleSDKCompiled": false,
+  "deviceTested": false,
+  "realDatasetsTrained": false,
+  "demoOnly": true
+}
